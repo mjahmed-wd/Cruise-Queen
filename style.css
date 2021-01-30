@@ -85,6 +85,15 @@ h3 {
     margin: 10px 0px;
 }
 
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.flex span {
+    margin-right: 100%;
+}
+
 .booking-form .input-group {
     margin: 10px 0;
 }
